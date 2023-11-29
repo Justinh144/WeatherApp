@@ -17,3 +17,7 @@ I tried to get the site looking as close as possible to the img provided but fel
 Thank you for your feedback!
 
 Justin Hodges
+
+
+
+![image](https://github.com/Justinh144/WeatherApp/assets/146400241/551f1e0d-5144-432d-a83a-dfc1e96239c1)
